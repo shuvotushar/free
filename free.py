@@ -75,7 +75,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/irfan7732/test/blob/main/a.txt').text
+			plr = requests.get('https://github.com/shuvotushar/free/edit/main/free.py').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
@@ -93,7 +93,7 @@ class Main:
 			exit()
 		os.system("clear")
 		
-		print ("""\033[1;92m  _______  __      __ 
+		print ("""\033[1;92m  তোর নানির খালি ঘর
 
    _____ _    _ _    ___      ______  
   / ____| |  | | |  | \ \    / / __ \ 
